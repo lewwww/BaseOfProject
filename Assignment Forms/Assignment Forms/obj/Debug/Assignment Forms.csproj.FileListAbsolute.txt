@@ -1,0 +1,10 @@
+C:\Users\Lew Wonnacott\source\repos\Assignment Forms\Assignment Forms\bin\Debug\Assignment Forms.exe.config
+C:\Users\Lew Wonnacott\source\repos\Assignment Forms\Assignment Forms\bin\Debug\Assignment Forms.exe
+C:\Users\Lew Wonnacott\source\repos\Assignment Forms\Assignment Forms\bin\Debug\Assignment Forms.pdb
+C:\Users\Lew Wonnacott\source\repos\Assignment Forms\Assignment Forms\obj\Debug\Assignment Forms.csprojAssemblyReference.cache
+C:\Users\Lew Wonnacott\source\repos\Assignment Forms\Assignment Forms\obj\Debug\Assignment_Forms.Form1.resources
+C:\Users\Lew Wonnacott\source\repos\Assignment Forms\Assignment Forms\obj\Debug\Assignment_Forms.Properties.Resources.resources
+C:\Users\Lew Wonnacott\source\repos\Assignment Forms\Assignment Forms\obj\Debug\Assignment Forms.csproj.GenerateResource.cache
+C:\Users\Lew Wonnacott\source\repos\Assignment Forms\Assignment Forms\obj\Debug\Assignment Forms.csproj.CoreCompileInputs.cache
+C:\Users\Lew Wonnacott\source\repos\Assignment Forms\Assignment Forms\obj\Debug\Assignment Forms.exe
+C:\Users\Lew Wonnacott\source\repos\Assignment Forms\Assignment Forms\obj\Debug\Assignment Forms.pdb
